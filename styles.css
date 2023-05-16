@@ -1,0 +1,77 @@
+body {
+    background-color: aliceblue;
+    color: black;
+}
+.avatar {
+    box-shadow: 8px 8px 16px rgba(7, 7, 7, 0.25);
+    width: 300px;
+    border-radius: 28px;
+}
+
+body {
+    color: 0000f;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: italic;
+    text-decoration: none;
+    padding: 15px;
+    border: 5px solid black;
+}
+
+ .social {
+background: #fff9dc;
+padding: 15px 20px;
+border: 3px solid black;
+margin: 20px;
+border-radius: 28px;
+
+ }
+ .hoby {
+    background-color:#e5ffe7;
+    padding: 15px;
+    border: 5px solid black;
+    margin: 20px;
+    border-radius: 28px;
+}
+ }
+ .contanier {
+    max-width: 750px;
+ }
+ .s {
+    text-decoration: none;
+ }
+ .job {
+    background: #ffe5e5;
+    padding: 15px;
+    border: 5px solid black;
+    margin: 25px;
+    border-radius: 28px;
+ }
+ .contact h2 {
+    text-align: center;
+
+ }
+ .form-group label {
+    display: block;
+    font-size: 14px;
+    color: black;
+ }
+ .form-group input{
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    background: transparent;
+    color: black;
+    padding: 15px 0 10px;
+    outline: none;
+    font-family: inherit;
+ }
+ .row {
+    display: flex;
+    border-bottom: 20px;
+ }
+ .row > .form-group {
+    width: 50%;
+    margin-right: 20px;
+ }
